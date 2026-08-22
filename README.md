@@ -47,7 +47,7 @@ It helped me understand:
 This project is created for educational and learning purposes only.
 It is not affiliated with, sponsored by, or endorsed by Amazon.
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 Siddharth Pandey
 <br><br>
 Made with ❤️ using HTML & CSS.
