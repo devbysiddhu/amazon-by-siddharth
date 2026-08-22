@@ -20,12 +20,14 @@ This project was created to practice and improve my skills in web design, HTML s
 - CSS3
 
 ## 📂 Project Structure
+```
 amazon-by-siddharth/
 │
 ├── Assets/
 ├── index.html
 ├── style.css
 └── README.md
+```
 
 ## 🎯 Purpose of the Project
 The main purpose of this project was to practice building a real-world website interface using HTML and CSS without using any frontend framework.<br>
