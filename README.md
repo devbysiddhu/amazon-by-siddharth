@@ -3,7 +3,7 @@ A frontend Amazon-inspired e-commerce website built from scratch using HTML and 
 This project was created to practice and improve my skills in web design, HTML structure, CSS styling, layouts, and responsive design.
 
 ## 🚀 Live Demo
-👉 https://amazon-by-siddharth.netlify.app/
+👉 https://devbysiddhu.github.io/amazon-by-siddharth/
 
 ## ✨ Features
 - 🛍️ Amazon-inspired homepage design
