@@ -14,7 +14,6 @@ This project was created to practice and improve my skills in web design, HTML s
 - 📦 Product category sections
 - 📚 Books and product sections
 - 🖼️ Product cards with images and information
-- 📱 Responsive and clean layout
 - 🎨 Custom styling using CSS
 - 📌 Footer with multiple sections
 
