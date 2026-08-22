@@ -5,6 +5,9 @@ This project was created to practice and improve my skills in web design, HTML s
 ## 🚀 Live Demo
 👉 https://devbysiddhu.github.io/amazon-by-siddharth/
 
+## 📸 Preview
+![Amazon Clone Preview](amazon-screenshot.png)
+
 ## ✨ Features
 - 🛍️ Amazon-inspired homepage design
 - 🔍 Search bar and navigation section
